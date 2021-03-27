@@ -1,3 +1,5 @@
+--Code forf images display. 
+
 import { NgModule } from '@angular/core';
 import { Component } from '@angular/core';
 
